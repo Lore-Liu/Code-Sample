@@ -23,7 +23,6 @@ This script contains the full pipeline for my econometrics final project, explor
 - Outputs publication-ready LaTeX tables via `etable()`.
 
 Packages used: `readr`, `tidyverse`, `data.table`, `stargazer`, `fixest`  
-Research topic: *Gender disparities in campaign finance under U.S. electoral institutions.*
 
 ---
 
@@ -39,7 +38,6 @@ This script answers a 5-part assignment analyzing **UN General Assembly voting p
 5. Time-series comparison of median ideal points by group, annotated with key geopolitical events.
 
 Packages used: `readr`, `tidyverse`, `ggpubr`, `ggplot2`  
-Research theme: *Foreign policy alignment and ideological shifts in international organizations.*
 
 ---
 
